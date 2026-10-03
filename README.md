@@ -6,7 +6,7 @@
 Real-time. Anonymous. Collaborative.
 
 <p align="center">
-    <b><a href="../syncboard-backend/README.md">🔗 View Backend Documentation</a></b>
+    <b><a href="https://github.com/CodeNik07/syncboard-backend/blob/main/README.md">🔗 View Backend Documentation</a></b>
 </p>
 
 <p align="center">
