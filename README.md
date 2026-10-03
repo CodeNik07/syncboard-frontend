@@ -10,6 +10,7 @@ Real-time. Anonymous. Collaborative.
 </p>
 
 <p align="center">
+
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Version](https://img.shields.io/badge/Version-v1.0.0-blue)
 ![React](https://img.shields.io/badge/React-19-blue)
