@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./public/syncboard.svg" width="72" alt="SyncBoard Logo" />
+<img src="https://github.com/CodeNik07/syncboard-frontend/blob/main/public/Syncboard.svg" width="72" alt="SyncBoard Logo" />
 
 # SyncBoard - Frontend Client
 Real-time. Anonymous. Collaborative.
